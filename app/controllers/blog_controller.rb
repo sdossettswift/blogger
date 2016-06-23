@@ -5,6 +5,4 @@ class BlogController < ApplicationController
   def detail
   end
 
-  def edit
-  end
 end
