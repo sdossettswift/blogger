@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'posts/new'
+
+  get 'posts/edit'
+
   get 'post/edit'
 
   get 'post/display'
